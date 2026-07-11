@@ -1,0 +1,7 @@
+{
+    "pack": {
+        "description": "Retextures pretty much all of the emerald textures to look like money.",
+        "min_format": [75, 0],
+		"max_format": [100, 0]
+    }
+}
