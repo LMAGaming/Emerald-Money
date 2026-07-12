@@ -8,5 +8,5 @@ Features
 Download
 https://modrinth.com/resourcepack/emerald-money
 
-Dependencies & Credit
+Dependencies
 https://modrinth.com/mod/cit-resewn-continuation
