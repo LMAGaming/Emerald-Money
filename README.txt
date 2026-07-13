@@ -1,4 +1,4 @@
-# About:
+<h1>About:</h1>
 Retextures most of the emerald items and blocks to look like money or coins.
 
 ## Features:
