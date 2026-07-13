@@ -11,6 +11,6 @@ This is a Minecraft texture pack that retextures most of the emerald items and b
 
 For more images see [Gallery](https://modrinth.com/resourcepack/emerald-money/gallery).
 
-# Dependencies
+# Dependencies & Download
 - **[CIT Resewn Continuation](https://modrinth.com/mod/cit-resewn-continuation)**
-- **[CIT Resewn Continuation](https://modrinth.com/mod/cit-resewn-continuation)**
+- **[Download on Modrinth](https://modrinth.com/resourcepack/emerald-money)**
