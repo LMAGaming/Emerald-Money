@@ -1,5 +1,5 @@
 # About
-> This is a Minecraft texture pack that retextures most of the emerald items and blocks to look like money or coins.
+This is a Minecraft texture pack that retextures most of the emerald items and blocks to look like money or coins.
 
 ## Features
 - Texture of the emerald changes depending on the amount held [This is done by using the CIT Resewn Continuation mod].
